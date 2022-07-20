@@ -1,0 +1,16 @@
+import os
+print ("what is your name ")
+name=input(" ")
+print ("hi",name)
+print("how old are you")
+age=int(input( ))
+print ("ok")
+print("my age is 13 ")
+print (" are you boy or girl ")
+boy=("boy")
+gender=input( ) 
+if gender==boy :
+  print ("you are boy oh  ")
+else :
+  print ("you are girl ")
+print ("bye nice to meet you")
